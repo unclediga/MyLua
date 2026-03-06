@@ -11,6 +11,10 @@ z="ZZZ"
 
 }
 
+function m.hello3() 
+  print("Hello 3 times!")
+end
+
 
 m.hello2 = 
 function () 
