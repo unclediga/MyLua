@@ -6,20 +6,20 @@ while 1 do
   print(line)
 end
 
-print("*all")
+print("============*all")
 io.input("test.txt")
 print(io.read("*all"))
 
-print("*number")
+print("===========*number")
 io.input("test.txt")
 while 1 do
   local line = io.read("*number")
   if line == nil then break end 
-  print("nember = ", line)
+  print("number = ", line)
 end
 
 
-print("3")
+print("================3")
 io.input("test.txt")
 while 1 do
   local line = io.read(8)

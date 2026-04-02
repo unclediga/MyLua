@@ -1,0 +1,19 @@
+-- 5 абзацей, 110 слов, 791 байтов
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+Donec eget nunc ac mauris pharetra dignissim.
+Fusce eu est auctor, pretium tellus sit amet, imperdiet magna.
+Praesent a diam vel sapien euismod maximus a id est.
+Suspendisse id lectus vel odio vestibulum tempus.
+
+Suspendisse nec dui et lacus condimentum finibus.
+
+Donec bibendum ligula ac felis suscipit, nec eleifend nulla luctus.
+Sed vehicula lorem vel urna tempor viverra.
+Quisque faucibus lacus et erat iaculis facilisis.
+Aenean semper ligula vel porttitor pretium.
+
+Phasellus id felis nec tellus sollicitudin ultricies vel non lacus.
+Donec et mauris at turpis pretium aliquam eu non erat.
+Fusce tristique orci non metus pulvinar, a tristique sem maximus.
+Aenean efficitur dolor ut libero viverra, gravida elementum libero lobortis.
