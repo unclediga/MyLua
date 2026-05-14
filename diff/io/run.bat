@@ -1,2 +1,2 @@
 @echo off
-lua file4.lua
+lua %1 %2 %3 %4
